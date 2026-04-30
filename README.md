@@ -2,7 +2,7 @@
 
 # Hi, I'm Tuqa Saeed
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A277FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Automation+%26+RPA+Engineer;Always+building+something+new" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A277FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+Automation+%26+Engineer;Always+building+something+new" alt="Typing SVG" />
 
 </div>
 
@@ -22,7 +22,6 @@
 
 - ![learning](https://img.shields.io/badge/Currently-Learning_%26_Growing-edecee?style=flat-square) every single day
 - ![code](https://img.shields.io/badge/Passion-Clean_%26_Elegant_Code-edecee?style=flat-square)
-- ![rpa](https://img.shields.io/badge/Focus-Automation_%26_RPA-edecee?style=flat-square)
 - ![open](https://img.shields.io/badge/Open_to-Collaboration_%26_Opportunities-edecee?style=flat-square)
 
 ---
