@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Tuqa Saeed
+# Hi, I'm Tuqa ...Welcome To My Profile
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A277FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+Automation+%26+Engineer;Always+building+something+new" alt="Typing SVG" />
 
