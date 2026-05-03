@@ -100,8 +100,7 @@ Built a KPI dashboard that monitors robot activity using the **UiPath Orchestrat
 
 <div align="center">
 
-[![LinkedIn](https://www.linkedin.com/in/tuqa-saeed-2004a0312/)])
-[![Email](https://img.shields.io/badge/Email)]
+
 
 </div>
 
