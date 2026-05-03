@@ -30,14 +30,8 @@
 
 **Programming Languages**
 
-![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 **Frameworks & Tools**
 
@@ -51,25 +45,15 @@
 
 **APIs & Integration**
 
-![REST API](https://img.shields.io/badge/REST_APIs-%23000000?style=for-the-badge&logo=fastapi&logoColor=white)
-![Webhooks](https://img.shields.io/badge/Webhooks-%236D28D9?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-%23000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth-%23EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+![RESTFULL API](https://img.shields.io/badge/REST_APIs-%23000000?style=for-the-badge&logo=fastapi&logoColor=white)
 
-**Other**
 
-![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile/Scrum-%230052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-%23D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
-
----
 
 ## ![cert](https://img.shields.io/badge/-Certifications-a277ff?style=flat-square)
 
 ![Orange](https://img.shields.io/badge/Web_Development_Bootcamp-Orange_Jordan_%7C_640hrs-%23FF6600?style=for-the-badge&logo=orange&logoColor=white)
 
-Certified by **Orange Foundation**, **Princess Sumaya University for Technology** & **Simplon.co** — Jan 2025 – May 2025
+Certified by **Orange Foundation**, **Princess Sumaya University for Technology** & **Simplon.co** 
 
 ---
 
@@ -116,7 +100,6 @@ Built a KPI dashboard that monitors robot activity using the **UiPath Orchestrat
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-tuqa--saeed-%23181717?style=for-the-badge&logo=github)](https://github.com/tuqa-saeed)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/Email-Say_Hi!-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
